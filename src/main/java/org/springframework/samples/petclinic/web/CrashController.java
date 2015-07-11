@@ -36,5 +36,7 @@ public class CrashController {
                 "happens when an exception is thrown");
     }
 
+    public static void main(){
 
+    }
 }
